@@ -1,0 +1,32 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: Previsão da Qualidade da Água via Sensoriamento Remoto
+authors:
+  - family-names: MASSAINE
+    given-names: Andrei
+  - family-names: MENEZES
+    given-names: Beatriz
+  - family-names: AZEVEDO
+    given-names: Fabio
+  - family-names: LOPES
+    given-names: Lucas
+  - family-names: GUEDES
+    given-names: Luis
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: FREITAS
+    given-names: Henrique
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: FURTADO
+    given-names: João
+keywords:
+  - agua
+  - qualidade
+  - sensoriamento remoto
+  - machine learning
+
+repository-code: 
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2022-07-14
